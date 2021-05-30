@@ -1,0 +1,78 @@
+
+
+
+
+.about {
+
+    font-size: x-large;
+
+}
+
+
+.card{
+    border: none;
+    background-color: #F5F5F5;
+}
+
+nav {
+    background-color: #999396;
+    margin-bottom: 25px;
+  
+}
+
+
+.cimage {
+width: 600px; height: 600px;
+
+
+
+}
+
+form {
+    padding: 50px;
+} 
+
+/* contact font awesome icons*/
+.cfa {
+    margin: 10px;
+    
+}
+
+
+
+    li{
+        color: initial;
+    }
+
+
+
+    body {
+        margin-bottom:50px;
+        background-color:#F5F5F5 ;
+    }
+
+    footer {
+        background-color: #999396;
+        width: 100%;
+        height:100%;
+        margin-top: 60px;
+        padding: 40px;
+    }
+
+    a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a {
+        text-decoration:none;
+        color: inherit;
+     }
+
+     .modal-header {
+        border-bottom: 0 none;
+    }
+    
+    
+
